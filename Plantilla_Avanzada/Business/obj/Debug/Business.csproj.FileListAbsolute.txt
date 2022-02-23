@@ -1,0 +1,11 @@
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\bin\Debug\Business.dll
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\bin\Debug\Business.pdb
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\bin\Debug\DataAccess.dll
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\bin\Debug\Entities.dll
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\bin\Debug\DataAccess.pdb
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\bin\Debug\Entities.pdb
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\obj\Debug\Business.dll
+C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\Business\obj\Debug\Business.pdb
