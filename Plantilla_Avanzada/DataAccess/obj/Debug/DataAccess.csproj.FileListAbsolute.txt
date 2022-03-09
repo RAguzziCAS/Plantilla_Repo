@@ -7,3 +7,12 @@ C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\DataAccess\obj\Debug\DataAccess.csproj.
 C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\Aguzzi\Desktop\Clase_6_Avanzada\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\bin\Debug\Entities.dll
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Aguzzi\Desktop\Plantilla_Repo\Plantilla_Avanzada\DataAccess\obj\Debug\DataAccess.pdb
